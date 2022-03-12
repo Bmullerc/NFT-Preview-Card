@@ -33,6 +33,7 @@ Users should be able to:
 - To add a image content to ::before/after and transform/align/zoom it
 - To use hover to add multiple elements at a time
 - About the vertical-align property
+- To use multiple box-shadow to add a 3d effect
 
 ### Useful resources
 
