@@ -20,7 +20,7 @@ Users should be able to:
 - Added CSS classes and divs as needed
 - Included images and icons
 - Added hover elements and effects
-- Box-shadows to give a 3d feel
+- Box-shadows to give the 3d feel
 
 ### Built with
 
