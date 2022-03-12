@@ -35,6 +35,7 @@ Users should be able to:
 - To use hover to add multiple elements at a time
 - About the vertical-align property
 - To use multiple box-shadows to add a 3d effect
+- Use padding to increase distance from border to other elements
 
 ### Useful resources
 
