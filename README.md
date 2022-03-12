@@ -20,6 +20,7 @@ Users should be able to:
 - Added CSS classes and divs as needed
 - Included images and icons
 - Added hover elements and effects
+- Box-shadows to give a 3d feel
 
 ### Built with
 
@@ -33,7 +34,7 @@ Users should be able to:
 - To add a image content to ::before/after and transform/align/zoom it
 - To use hover to add multiple elements at a time
 - About the vertical-align property
-- To use multiple box-shadow to add a 3d effect
+- To use multiple box-shadows to add a 3d effect
 
 ### Useful resources
 
